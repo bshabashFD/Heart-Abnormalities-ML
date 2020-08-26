@@ -1,7 +1,5 @@
 import numpy as np
 import pandas as pd
-import librosa
-
 
 # will need this to read wav file
 from scipy.io.wavfile import read
