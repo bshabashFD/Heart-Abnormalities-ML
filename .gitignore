@@ -2,3 +2,5 @@
 *.wav
 
 data/audio_as_csv.csv
+
+*.zip
