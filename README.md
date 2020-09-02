@@ -9,3 +9,4 @@ This will follow more detailed instructions but the major requirements are
 `scikit-learn 0.23.2`
 `numba 0.48`
 `librosa 0.6.3`
+`tensorflow 2.2`

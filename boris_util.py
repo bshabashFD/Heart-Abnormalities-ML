@@ -154,6 +154,8 @@ def read_and_combine_data(folder_location, read_noisy_data=True):
         sampling_rates.append(sr)
 
         print(f"processed {round(100*index/combined_df.shape[0], 2)}%", end="\r")
+    
+    print(f"processed 100.00%")
 
     # then conver them into a dataframe
     signal_df = pd.DataFrame({'signal': signals, 
