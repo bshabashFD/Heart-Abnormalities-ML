@@ -1,0 +1,145 @@
+model,dataset,score
+Logistic Regression,test,0.7022900763358778
+Logistic Regression,train,0.7704918032786885
+SVM,test,0.7251908396946565
+SVM,train,0.7737704918032787
+KNN,test,0.7251908396946565
+KNN,train,0.7081967213114754
+Decision Tree,test,0.5954198473282443
+Decision Tree,train,0.7770491803278688
+Random Forest,test,0.7022900763358778
+Random Forest,train,1.0
+Gradient Boosting,test,0.6259541984732825
+Gradient Boosting,train,1.0
+Logistic Regression,test,0.7022900763358778
+Logistic Regression,train,0.7672131147540984
+SVM,test,0.7175572519083969
+SVM,train,0.9934426229508196
+KNN,test,0.648854961832061
+KNN,train,1.0
+Decision Tree,test,0.6793893129770993
+Decision Tree,train,0.8262295081967214
+Random Forest,test,0.6641221374045801
+Random Forest,train,0.9934426229508196
+Gradient Boosting,test,0.5572519083969466
+Gradient Boosting,train,0.9573770491803278
+Logistic Regression,test,0.6793893129770993
+Logistic Regression,train,0.8131147540983606
+SVM,test,0.6870229007633588
+SVM,train,0.7770491803278688
+KNN,test,0.6870229007633588
+KNN,train,0.8098360655737705
+Decision Tree,test,0.5343511450381679
+Decision Tree,train,0.8065573770491803
+Random Forest,test,0.648854961832061
+Random Forest,train,0.9475409836065574
+Gradient Boosting,test,0.5954198473282443
+Gradient Boosting,train,0.8786885245901639
+Logistic Regression,test,0.7099236641221374
+Logistic Regression,train,0.7278688524590164
+SVM,test,0.7175572519083969
+SVM,train,0.7901639344262295
+KNN,test,0.6335877862595419
+KNN,train,1.0
+Decision Tree,test,0.6717557251908397
+Decision Tree,train,0.9704918032786886
+Random Forest,test,0.6793893129770993
+Random Forest,train,1.0
+Gradient Boosting,test,0.7099236641221374
+Gradient Boosting,train,0.9770491803278688
+Logistic Regression,test,0.6946564885496184
+Logistic Regression,train,0.8557377049180328
+SVM,test,0.6946564885496184
+SVM,train,0.7868852459016393
+KNN,test,0.6412213740458015
+KNN,train,1.0
+Decision Tree,test,0.6946564885496184
+Decision Tree,train,0.9475409836065574
+Random Forest,test,0.7480916030534351
+Random Forest,train,0.9672131147540983
+Gradient Boosting,test,0.648854961832061
+Gradient Boosting,train,0.839344262295082
+Logistic Regression,test,0.6717557251908397
+Logistic Regression,train,0.7540983606557377
+SVM,test,0.7175572519083969
+SVM,train,0.7508196721311475
+KNN,test,0.6946564885496184
+KNN,train,0.7081967213114754
+Decision Tree,test,0.5343511450381679
+Decision Tree,train,0.8426229508196721
+Random Forest,test,0.6335877862595419
+Random Forest,train,0.9934426229508196
+Gradient Boosting,test,0.6412213740458015
+Gradient Boosting,train,1.0
+Logistic Regression,test,0.6641221374045801
+Logistic Regression,train,0.7540983606557377
+SVM,test,0.6946564885496184
+SVM,train,0.7540983606557377
+KNN,test,0.6641221374045801
+KNN,train,0.7180327868852459
+Decision Tree,test,0.7099236641221374
+Decision Tree,train,0.7967213114754098
+Random Forest,test,0.6793893129770993
+Random Forest,train,0.9934426229508196
+Gradient Boosting,test,0.6564885496183206
+Gradient Boosting,train,0.8295081967213115
+Logistic Regression,test,0.648854961832061
+Logistic Regression,train,0.8229508196721311
+SVM,test,0.7099236641221374
+SVM,train,0.9934426229508196
+KNN,test,0.6564885496183206
+KNN,train,0.7311475409836066
+Decision Tree,test,0.648854961832061
+Decision Tree,train,0.8819672131147541
+Random Forest,test,0.6564885496183206
+Random Forest,train,1.0
+Gradient Boosting,test,0.6335877862595419
+Gradient Boosting,train,0.7344262295081967
+Logistic Regression,test,0.7175572519083969
+Logistic Regression,train,0.7311475409836066
+SVM,test,0.7022900763358778
+SVM,train,0.7672131147540984
+KNN,test,0.6870229007633588
+KNN,train,0.7377049180327869
+Decision Tree,test,0.6412213740458015
+Decision Tree,train,0.8
+Random Forest,test,0.6717557251908397
+Random Forest,train,1.0
+Gradient Boosting,test,0.6793893129770993
+Gradient Boosting,train,0.7278688524590164
+Logistic Regression,test,0.6641221374045801
+Logistic Regression,train,0.7049180327868853
+SVM,test,0.7099236641221374
+SVM,train,0.7508196721311475
+KNN,test,0.6412213740458015
+KNN,train,0.7147540983606557
+Decision Tree,test,0.5877862595419847
+Decision Tree,train,1.0
+Random Forest,test,0.7022900763358778
+Random Forest,train,0.9639344262295082
+Gradient Boosting,test,0.6870229007633588
+Gradient Boosting,train,0.740983606557377
+Logistic Regression,test,0.6564885496183206
+Logistic Regression,train,0.7868852459016393
+SVM,test,0.7022900763358778
+SVM,train,0.7967213114754098
+KNN,test,0.648854961832061
+KNN,train,0.7147540983606557
+Decision Tree,test,0.5954198473282443
+Decision Tree,train,0.8688524590163934
+Random Forest,test,0.7022900763358778
+Random Forest,train,1.0
+Gradient Boosting,test,0.7022900763358778
+Gradient Boosting,train,0.9475409836065574
+Logistic Regression,test,0.6717557251908397
+Logistic Regression,train,0.6721311475409836
+SVM,test,0.7175572519083969
+SVM,train,0.7639344262295082
+KNN,test,0.6335877862595419
+KNN,train,0.7442622950819672
+Decision Tree,test,0.6412213740458015
+Decision Tree,train,0.8327868852459016
+Random Forest,test,0.7251908396946565
+Random Forest,train,1.0
+Gradient Boosting,test,0.7022900763358778
+Gradient Boosting,train,0.8524590163934426

@@ -145,13 +145,17 @@ def read_and_combine_data(folder_location, read_noisy_data=True):
     # read the signals and sampling rates into two lists
     signals = []
     sampling_rates = []
+    audio_length = []
 
     
 
     for index, row in combined_df.iterrows():
         y, sr = librosa.load(folder_location+"/"+row['fname'])
+        length_in_seconds = len(y)/sr
+        
         signals.append(y)
         sampling_rates.append(sr)
+        audio_length.append(length_in_seconds)
 
         print(f"processed {round(100*index/combined_df.shape[0], 2)}%", end="\r")
     
@@ -160,6 +164,7 @@ def read_and_combine_data(folder_location, read_noisy_data=True):
     # then conver them into a dataframe
     signal_df = pd.DataFrame({'signal': signals, 
                               'sampling_rate': sampling_rates,
+                              'audio_length': audio_length,
                               'label': combined_df['label']})
 
 
